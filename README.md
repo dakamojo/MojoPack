@@ -7,7 +7,7 @@ This is a very special honor for a new initiate.  You will be expected to comple
 ----------------------------
 
 Special Note About Quests
-This is a quest driven pack, but the quests will not be redundent.  There won't be three different quests to build three different furnaces.  The quests will be to provide resources in bulk.  Some examples are a cache full of iron, a cache full of oak logs or a cache full of leather.  There will be some progressive quests through armor and tools.
+This is a quest driven pack, but the quests will not be redundent.  There won't be three different quests to build three different furnaces, or build all the machines.  The quests will be to provide resources in bulk.  Some examples are a cache full of iron, a cache full of oak logs or a cache full of leather.  The user can decide what machines they want to use to create the resources.  There will be some progressive quests through armor and tools.
 
 Design Goals
 - Only tech mods and quality of life mods.  Automation will be required to complete the quests.
